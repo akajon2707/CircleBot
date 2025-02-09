@@ -4,3 +4,4 @@ python-dotenv~=1.0.1
 moviepy~=2.0.0.dev2
 pyTelegramBotAPI~=4.22.1
 pillow~=9.5.0
+moviepy
